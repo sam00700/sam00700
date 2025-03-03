@@ -8,7 +8,7 @@
 - Strong experience in **API integration, custom component development, and store integrations**.
 
 ## 💼 Work Experience
-- **React.js Developer at Chalo Application** (Contract)
+- **React.js Developer at Chalo Bus Partner Application**
   - Converted applications into **Android & iOS** using **Capacitor.js**.
   - Worked with **Google Maps, Mixpanel analytics, and Jest testing**.
   - Deployed applications to **App Store & Play Store**.
