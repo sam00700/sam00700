@@ -46,5 +46,4 @@
 ## 📫 Let's Connect
 - **LinkedIn**: https://www.linkedin.com/in/saksham-jaiswal-11a44115b
 - **GitHub**: https://github.com/sam00700
-- **Portfolio**: [Your Portfolio Website](#)
 - **Email**: sakshamjaiswal.10@gmail.com
